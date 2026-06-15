@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel de seda
+
+This log tracks the cryptographic history and versioning for the song **Piel de seda** (piel-de-seda).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T21:09:42.288272 | `v1` | `9f65c9541de153297c9ce1440771fd48ba7865af8c6028ea99a2aa0db41d25be` | `3285306dbc521f549c50db18ad21695f301492373033cf14ef2f3ba20542153c` | `2026-06-15_piel-de-seda-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
