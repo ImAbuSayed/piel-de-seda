@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Piel de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-seda/) |
+| **Get License** | [Official Music Licensing for Piel de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tiene la mirada que me invita al pecado
+> Una vibra cara, mami, me ha hackeado
+> Piel de seda oscura, brillo de diamantes
+> Esta noche entera nos volvemos amantes
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
